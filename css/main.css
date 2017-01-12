@@ -1,1 +1,56 @@
-css
+div.head{
+  color:dodgerblue;
+  background-color:firebrick;
+  border-bottom:5px solid goldenrod;
+  margin:10px;
+  padding:5px;
+  padding-right:50px;
+  padding-left:25px;
+}
+h3.align1 {
+	text-align: right;
+  word-spacing: 15px;
+}
+
+a.head {
+  text-decoration:none;
+  color:goldenrod;
+}
+
+section{
+  background-color:burlywood;
+}
+
+  div{
+  padding-left:10px;
+}
+
+
+a.Kar{
+ text-decoration:none;
+  color:black;
+}
+
+a.serb{
+ text-decoration:none;
+  color:black;
+}
+
+a.slav{
+ text-decoration:none;
+  color:black;
+}
+
+a.city{
+ text-decoration:none;
+  color:black;
+}
+
+a.par{
+ text-decoration:none;
+  color:black;
+}
+
+div.footer{
+  text-align: right;
+}
